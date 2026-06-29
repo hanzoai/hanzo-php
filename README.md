@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="hanzo-php" width="880"></p>
+
 # Hanzo
 
 Browser and node module for making API requests against [Hanzo](https://api.hanzo.io).
